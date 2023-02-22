@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-## My Current Stats!
+## Dina's Current Stats!
 
 <br>
 <br>
