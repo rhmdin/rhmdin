@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently pursuing my BSIS / Bachelor of Computer Science aka S.Kom (in Indonesia) degree 
+- 🔭 I’m currently pursuing Bachelor of Computer Science aka S.Kom degree 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My Instagram is full of stray cats <3
+- ⚡ Fun fact: My Instagram is managed by stray cats <3
 
 
 
