@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing Bachelor of Computer Science aka S.Kom degree 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My Instagram is managed by stray cats <3
+- ⚡ I was Pikachu main at Pokemon UNITE!
 
 
 
