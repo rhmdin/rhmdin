@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently pursuing Bachelor of Computer Science aka S.Kom degree 
-- 😄 Pronouns: She/Her
-- ⚡ I was Pikachu main at Pokemon UNITE!
+- 🔭 I’m currently pursuing Bachelor of Computer Science aka S.Kom degree
+- ⚡ I play Pokemon UNITE a lot!
 
 
 
