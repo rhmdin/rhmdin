@@ -22,7 +22,4 @@ Here are some ideas to get you started:
  </a>
 <br>
 <br>
-<a href="https://github.com/rhmdin/github-readme-stats"><img alt="Dina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhmdin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
-<br>
 <a href="https://github.com/rhmdin/github-readme-stats"><img alt="Dina's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhmdin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
