@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 <hr>
 
 ## Current Stats!
-
-<br>
-<br>
  <a href="https://github.com/rhmdin/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dina's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rhmdin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  </a>
