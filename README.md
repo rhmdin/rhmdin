@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Studying Computer Science
+- 🔭 Studying Information System
 - ⚡ Playing Pokemon UNITE a lot!
 
 
