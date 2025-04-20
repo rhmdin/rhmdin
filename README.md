@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Studying Information System
-- ⚡ Playing Pokemon UNITE a lot!
+- ⚡ Playing Pokemon UNITE!
 
 
 
