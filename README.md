@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Studying Information System
-- ⚡ Loving eeveelutions
+I love eeveelutions
 
 
 
